@@ -1,11 +1,17 @@
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
+  首页: /
+  归档: /archives
+  关于: /about
 
 social:
   GitHub: https://github.com/EggyUI-SE
 
+friendlinks:
+  蛋仔资源站: https://eggyreshub.wordpress.com
+  皮蛋镜像站: https://link3.cc/eggycore
+  EggyHub: https://eggyhub.top
+  Hexo: https://hexo.io
+
 footer:
-  copyright: '© 2026 AloneVoyager'
+  copyright: '2026 EggyUI-SE Team'
   legal_text: 'Powered by Hexo'
